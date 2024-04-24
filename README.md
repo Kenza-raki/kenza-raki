@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenza</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
-‹img align="right" alt="Coding" width=400 src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif ">
+‹img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 
 - 📫 How to reach me **kenza.raki14@gmail.com**

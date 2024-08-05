@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Kenza, a passionate Full-Stack developer from Morocco.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif">
 
